@@ -13,12 +13,13 @@ By using the coords attribute we can select a particular area we needed ,Then us
 # Code:
 ````
 <img src="C:\Users\admin\Downloads\WhatsApp Image 2023-11-16 at 6.51.50 AM.jpeg"  alt="SAVEETHA ENGINEERING COLLEGE" usemap="#SEC">
+
 <map name="SEC">
-  <area shape="rect" coords="785,448,623,314" alt="INFORMATION TECHNOLOGY" href="https://www.saveetha.ac.in/index.php/departments/information-technology">
-  <area shape="rect" coords="86,241,0,46" alt="MECHANICAL DEPARTMENT" href="https://www.saveetha.ac.in/index.php/departments/mechanical-engineering">
-  <area shape="rect" coords="262,250,383,380" alt="ELECTRONICS-COMMUNICATION ENGINEERING" href="https://www.saveetha.ac.in/index.php/departments/electronics-communication-engineering">
-  <area shape="rect" coords="447,371,627,503" href="https://www.saveetha.ac.in/index.php/departments/computer-science-engineering" alt="computer-science-engineering">
-  <area shape="rect" coords="672,277,889,180" href="https://www.saveetha.ac.in/index.php/departments/artificial-intelligence" alt="ARTIFICIAL INTELLICENCE AND DATA SCIENCE">
+  <area shape="rect" coords="785,448,623,314" alt="INFORMATION TECHNOLOGY" href="file:///C:/Users/admin/Documents/web%20applications/MAP/IT.html">
+  <area shape="rect" coords="86,241,0,46" alt="MECHANICAL DEPARTMENT" href="file:///C:/Users/admin/Documents/web%20applications/MAP/mech.html">
+  <area shape="rect" coords="262,250,383,380" alt="ELECTRONICS-COMMUNICATION ENGINEERING" href="file:///C:/Users/admin/Documents/web%20applications/MAP/ece.html">
+  <area shape="rect" coords="447,371,627,503" href="file:///C:/Users/admin/Documents/web%20applications/MAP/cse.html" alt="computer-science-engineering">
+  <area shape="rect" coords="672,277,889,180" href="file:///C:/Users/admin/Documents/html%20aids/coding.html" alt="ARTIFICIAL INTELLICENCE AND DATA SCIENCE">
 </map>
 
 ````
